@@ -778,16 +778,33 @@ https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
 https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,SkyNet Sport 1
 https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORTS",SKYNET SPORT 1 back
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 2
 https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORTS",SKYNET SPORT 2 back
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 3
 https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORTS",SKYNET SPORT 3 back
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS", SkyNet Sport 4
 https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/94/77/1894773124c59b327ad34a7a795b2a18.png" group-title="SPORTS",SKYNET SPORT 4
+
+back
+
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 5
 https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORTS",SKYNET SPORT 5
+back
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 6
 https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS",SKYNET SPORT 6 back
+
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 #EXTINF:0 tvg-id="ArenaSport1.hr" group-title="SPORTS",ARENA SPORT 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 #EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORTS",ARENA SPORT 2
