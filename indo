@@ -726,23 +726,25 @@ https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="22/7 EPL",BEIN SPORT 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="22/7 EPL",BEIN SPORT 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="22/7 EPL",BEIN SPORT 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="22/7 EPL",BEIN SPORT 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title="22/7 EPL",BEIN SPORT 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="22/7 EPL",BEIN SPORT 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="22/7 EPL",BEIN SPORT 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="22/7 EPL",BEIN SPORT 8
 http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="22/7 EPL",BEIN SPORT 9
 http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
+
+
 #EXTINF:0 tvg-id="ext" group-title="22/7 EPL",BT SPORT 1 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="22/7 EPL",BT SPORT 2 (Extra Server)
@@ -836,21 +838,21 @@ http://skdn.redi-vo.com/iptv/ch2126?code=1701273726237058&key=18673
 #EXTINF:-1  tvg-id="SonyESPN.in" group-title="SPORTS",Sport TV 5 PT
 http://skdn.redi-vo.com/iptv/ch2127?code=1701273726237058&key=49822
 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="22/7 EPL",BEIN SPORT 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="22/7 EPL",BEIN SPORT 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="22/7 EPL",BEIN SPORT 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="22/7 EPL",BEIN SPORT 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="22/7 EPL",BEIN SPORT 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="22/7 EPL",BEIN SPORT 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="22/7 EPL",BEIN SPORT 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="22/7 EPL",BEIN SPORT 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="22/7 EPL",BEIN SPORT 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
