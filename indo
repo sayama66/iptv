@@ -262,16 +262,94 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 #EXTINF:-1 group-title="INDIHOME",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
-#EXTINF:0 tvg-id="ext" group-title="CHINA",ANHUI TV
-https://anevia115.mncnow.id:443/live/eds/AnhuiTV/sa_hls/AnhuiTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINA",JIANGSU TV
-https://anevia115.mncnow.id:443/live/eds/JiangsuTV/sa_hls/JiangsuTV-avc1_2499968=8-mp4a_98800_eng=5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINA",HUNAN TV
-https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINA",SHANGHAI DRAGON TV
-https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHINA",XING KONG
-https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+#EXTINF:0 tvg-id="ext" gr#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1??.png" group-title="CHINA",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_??.svg/1200px-CCTV-2_??.svg.png" group-title="CHINA",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="CHINA",CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="CHINA",CCTV-3 (Opt-2)
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="CHINA",CCTV-4 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv4.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="CHINA",CCTV-4 (Opt-2)
+http://45.126.83.51/qwr9ew/s/s19/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",CCTV-5
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6??.png" group-title="CHINA",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7????.png" group-title="CHINA",CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8???.png" group-title="CHINA",CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9??.png" group-title="CHINA",CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10??.png" group-title="CHINA",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="CHINA",CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12????.png" group-title="CHINA",CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14??.png" group-title="CHINA",CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15??.png" group-title="CHINA",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fWVXqKc.png" group-title="CHINA",China Business Network (Opt-3)
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 1
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 2
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 3
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 4
+http://stream.chinactv.com/ctv4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 5
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaviUTw.png" group-title="CHINA",Dragon Television
+http://45.126.83.51/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-1)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_500k_flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-2)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_800k_flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="CHINA",Max Financial Media
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="CHINA",Nongan News
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAvf1cK.png" group-title="CHINA",Qinghai TV (New!)
+http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XeeAdF4.png" group-title="CHINA",Sichuan Kangba (New!)
+http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aM6u55u.png" group-title="CHINA",Tonghua TV 1 Jilin
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="CHINA",Toon Max TV (Opt-1)
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="CHINA",Toon Max TV (Opt-2)
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-1)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-2)
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 2 Shanghai
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 3 Shanghai
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 4 Shanghai
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xagdGLo.png" group-title="CHINA",Yanbian TV Jilin
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co6VgvJ.png" group-title="CHINA",Yanbian TV 1 Jilin
+http://live.ybtvyun.com/video/s10016-ybtv1-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4jLTK.png" group-title="CHINA",Yanbian TV 2 Jilin
+http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-1)
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-2)
+http://stream.zhystv.com/ysyt/sd/live.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ASIA",CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
@@ -584,50 +662,7 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIES",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1 group-title="Movies",HOLLYWOOD MOVIES 3
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 4
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 5
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 6
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="Movies",HOLLYWOOD MOVIES 7
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1  group-title="Movies",JET LI
-http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", HINDI MOVIE
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", CHINESE MOVIE 1
-http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", CHINESE MOVIE 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", ENGLISH MOVIE 1
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", ENGLISH MOVIE 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", ENGLISH MOVIE 3
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="Movies", Jackie Chan Movies
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="Movies",Movies 2
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 group-title="Movies",Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Movies 12
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 group-title="Movies",FX
 http://live.fadev.club/live/FX/playlist.m3u8
 #EXTINF:-1 group-title="Movies",FX Asia
@@ -838,9 +873,275 @@ http://skdn.redi-vo.com/iptv/ch2126?code=1701273726237058&key=18673
 #EXTINF:-1  tvg-id="SonyESPN.in" group-title="SPORTS",Sport TV 5 PT
 http://skdn.redi-vo.com/iptv/ch2127?code=1701273726237058&key=49822
 
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD CAMPURAN",The Iron Crown (2019) Sub Indo
+https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD CAMPURAN",AQUAMAN {Sub Indo}
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="VOD CAMPURAN",VENOM 
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="VOD CAMPURAN",BUMBLEBEE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="VOD CAMPURAN",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="VOD CAMPURAN",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT3T7TUbP1aMx7vV42d3101OyCgeQ2AW4g9S6Zx8JQSo6-zCoH" group-title="VOD CAMPURAN",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXCKuZlnfLlFL9Fa00YA0hw1l_JaXX76vRE-XKBEWr93r-EpZS" group-title="VOD CAMPURAN",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkkqX82e_M2m7XnLvsipvYkPeX_cnF_SKRaHdQ1IiLqUUoXApe" group-title="VOD CAMPURAN",The Wispering (Sub Indo) 
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="VOD CAMPURAN",THE NIGHT COMES FOR US {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgEsOtkrhiCD01p2phNyb5050FeV1WWvj98fO0BgtHSla8Tfnr" group-title="VOD CAMPURAN",The Doll (2018) Sub indo
+
+https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMGFhZjY1YWItNjdiOC00ZDFmLWJlNGYtYjU4NDdiYTA1YTMyXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="VOD CAMPURAN",The Doll 2 (2019)
+https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWzuzuaEL4YvXTsmnqoRSr1L4ptf_UmZY92syHVFmIoVSUUVsb" group-title="VOD CAMPURAN",Perjanjian Dengan Iblis (2019) 
+https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwnDBuBAy951n9ml_TARUhvw1A5Bjbz-_YqxEDDQRwaLRNaLw-" group-title="VOD CAMPURAN",TABU : MENGUSIK GERBANG IBLIS (2019)
+https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD8Vh9TsCVnrJIMFmDeXtD-_cxOGpLGjFsVxhuvl3SEuYoI0GO" group-title="VOD CAMPURAN",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwqYrV8hzq06myLVyENAiAhkk4hlGimR8A5gm6y3mylenmvBtp" group-title="VOD CAMPURAN",SATU SURO
+https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa" group-title="VOD CAMPURAN",Suzanna: Bernafas Dalam Kubur 
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNEDJvc7Sp-DakgYdDprl7YyeZWWBQ3LnuusxkfozRxgGUlZho" group-title="VOD CAMPURAN",Tusuk Jelangkung
+https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY" group-title="VOD CAMPURAN",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc" group-title="VOD CAMPURAN",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS95EU5ZTTT47hciyLAnx0FiVBX8XYnvFjrJIjNv8tO1JHgsSZR" group-title="VOD CAMPURAN",DANUR
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrIULJJ5YqcSUbAaLIu3n-dPhrgz8uIWZW20hiL7yztw9v8yk4" group-title="VOD CAMPURAN",DANUR 2
+https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJYutESDv0weAH6f5m1uyGnoaWEREWAHLisQJsP7dNXqpAcyGU" group-title="VOD CAMPURAN",PENGABDI SETAN
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAKo-CLMsKYEY-pE8W5sdPDHmu5th5fgHnLJGL4rXJS1Bao9jC" group-title="VOD CAMPURAN",MUNAFIK {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTItTl-BhkLE8N8L3mK-koxzUcE004HpAxyp1WBSl-r0Hxw-drj" group-title="VOD CAMPURAN",Ayat Ayat Cinta
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpUZCIuocujr9Ltv-C-1UgP950JfJ_EM5PSuTIn0HkzzMPJEHg" group-title="VOD CAMPURAN",Ayat Ayat Cinta 2
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD CAMPURAN",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD CAMPURAN",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD CAMPURAN",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD CAMPURAN",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD CAMPURAN",SKYSCRAPER {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpVd9scm84XWyDkHM2dlahM-zxdLs0D9D95A0HpvX3Y_0Z8NP7" group-title="VOD CAMPURAN",THE CAR ROAD TO REVENGE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqvc245HiADjrmhc6lsvv-jKACRJjxf8MN-pVTvbVCtHTpx4fa" group-title="VOD CAMPURAN",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTETEu8yLlKa_aBiqdQjNpr2lyxvlkfL1RSyfZH0JpiuTL7Yto4" group-title="VOD CAMPURAN",TOMB RAIDER (2018) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHiJKvhW475fcOrdTpi0GFPeri06kyxau2f97zZAB7KTnJh8dP" group-title="VOD CAMPURAN",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
+https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHm8rkApfzkjxFupeU8KXO7UctlaI_2eHdMsdBwXP47FRUzEKa" group-title="VOD CAMPURAN",MULE (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgNZz3lx3_gb7VGABWqao-hsR0s1SJCnZ0y25c0-3Jim2N3IEm" group-title="VOD CAMPURAN",COLD PURSUIT (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdt4H1K5i-0IdpRzGMA3_poCAvV2y4bRdDfNqRYD6ZJLG8-4oJ" group-title="VOD CAMPURAN",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4m2V5gDv7A7hFo9F1diuAUB6RZnHc0QrW5JsmitjnOY8-zIPZ" group-title="VOD CAMPURAN", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaxWjOWMS01sBwD7_cPnwSfB3AEBzA7CTxTBKD2Ik_33BkLw3" group-title="VOD CAMPURAN",JESSIE (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqpoEgb1eEO0qjkrMAq2CLo9TZbhp4p0UkdP6fmWTEG0Knen7J" group-title="VOD CAMPURAN",UNDA (2019) 
+https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
+#EXTINF:-1 logo="http://themoviebear.com/images/201908/thumb_img/1243_thumb_G_1565389851882.jpg" group-title="VOD CAMPURAN",A Score To Settle (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bharat_film_poster.jpg/220px-Bharat_film_poster.jpg" group-title="VOD CAMPURAN",Bharat (2019) 
+https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9kBsQv_9R6onI_SyYnp-fr53Dks62Mzo73xaDjKs3qalxkhDh" group-title="VOD CAMPURAN",Seven (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPmZq42FYNtxAB6usVEzjipmvij0YeeQw85EzPCXe4IBVsQKlb" group-title="VOD CAMPURAN",Time To Retaliate: MASOOM (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5db1tmORO2rZrlbcg_EXqHRioNcBIRnzwNumyfjBghlGfvtU-" group-title="VOD CAMPURAN",The Great Hack (2019) 
+https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzZHlomrQ8gpEE8BIOFNl86qpd8i_GAOy3CfKOnvw1q7rxNv6w" group-title="VOD CAMPURAN",El Chicano (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
+#EXTINF:-1 logo="https://cdn.cinematerial.com/p/500x/nksojhup/batman-hush-movie-cover.jpg?v=1563687047" group-title="VOD CAMPURAN",Batman: Hush (2019) 
+https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSfXklD3GkdA5gxiw7PhxN_IR8KKjEEAjf34EJUN2_RKbo1_B5" group-title="VOD CAMPURAN",Pokemon Detective Pikachu (2019) 
+https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcWwRMaUJ34ihcSyvZrob59Q3-DkTScAXgUNsDwh7k2BLm_nWm" group-title="VOD CAMPURAN",The Immortal War : Resurgence (2019) 
+https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHJtlWeFgExSsSwDaGlnPoTIgWfw9AtNOoU7tNLvFR1UGj-T1G" group-title="VOD CAMPURAN",Hollow Point (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=defa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3zWGzB5/Pokemon.jpg" group-title="FILM BARAT",Pokemon : Detective Pikachu
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPj6hQm/Dumbo.jpg" group-title="FILM BARAT",Dumbo
+https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBYPmFvH/the-nutcracker-and-the-four-realms.jpg" group-title="FILM BARAT",The Nutcracker and The Four Realms
+https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/12417188/p12417188_v_v8_ab.jpg" group-title="FILM BARAT",A Monster Calls
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9418112/p9418112_v_v8_aq.jpg" group-title="FILM BARAT",You Now See Me
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPYgmxRnjy_HectC18-4VhLwJHk0h8YdlJ7DQ48Dr1Ihsf960s" group-title="FILM BARAT",You Now See Me 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCKYipRBV_5BZOMO2Ba6D-v81I3-JrK56rjPE2SP_wewGN-pPj" group-title="FILM BARAT",The Host
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTr1gLf7/The-Aeronauts.jpg" group-title="FILM BARAT",Aeronauts
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/280CjrF3/AD-astra.jpg" group-title="FILM BARAT",AD Astra
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z3DW4YS/Captive-State.jpg" group-title="FILM BARAT",Captive State
+https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/v22vodart/9086036/p9086036_v_v8_ak.jpg" group-title="FILM BARAT",Warm Bodies
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/goh8D4Y.png" group-title="FILM BARAT", Mummy Reborn (2019)
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nt2DzUZ.png" group-title="FILM BARAT", Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pApJmzI.png" group-title="FILM BARAT", Official Secrets (2019)
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6ptIRY.png" group-title="FILM BARAT", The Elephant Queen (2019)
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQys8AP.png" group-title="FILM BARAT", Chhichhore (2019)
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xYF9Il.png" group-title="FILM BARAT", Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4HQ42S.png" group-title="FILM BARAT", Acceleration (2019)
+https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYarpoN.png" group-title="FILM BARAT", Wake Up (2019
+https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWlubjf.png" group-title="FILM BARAT", Gemini Man (2019)
+https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70eK72D.png" group-title="FILM BARAT", Jeff Garlin: Our Man in Chicago (2019)
+https://www.googleapis.com/drive/v3/files/1Hv6sYEkuzO9kz1d9TCXguazI4xr8wbeO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjV5ELn.png" group-title="FILM BARAT", Badland (2019)
+https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJEIWjJ.png" group-title="FILM BARAT", Door in the Woods (2019)
+https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWgj81w.png" group-title="FILM BARAT", The Fighting Preacher (2019)
+https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGHsQB6.png" group-title="FILM BARAT", Transit 17 (2019)
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20amKvh.png" group-title="FILM BARAT", Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZvYBuU.jpg" group-title="FILM BARAT", Crawl (2019)
+https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffYuJd0.png" group-title="FILM BARAT", Lucky Day (2019)
+https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pApJmzI.png" group-title="FILM BARAT", Official Secrets (2019)
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6ptIRY.png" group-title="FILM BARAT", The Elephant Queen (2019)
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQys8AP.png" group-title="FILM BARAT", Chhichhore (2019)
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xYF9Il.png" group-title="FILM BARAT", Primal (2019)
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="FILM BARAT",AQUAMAN (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="FILM BARAT",VENOM
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="FILM BARAT",BUMBLEBEE (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="FILM BARAT",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="FILM BARAT",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT3T7TUbP1aMx7vV42d3101OyCgeQ2AW4g9S6Zx8JQSo6-zCoH" group-title="FILM BARAT",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXCKuZlnfLlFL9Fa00YA0hw1l_JaXX76vRE-XKBEWr93r-EpZS" group-title="FILM BARAT",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkkqX82e_M2m7XnLvsipvYkPeX_cnF_SKRaHdQ1IiLqUUoXApe" group-title="FILM BARAT",The Wispering (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="FILM BARAT",THE NIGHT COMES FOR US (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD8Vh9TsCVnrJIMFmDeXtD-_cxOGpLGjFsVxhuvl3SEuYoI0GO" group-title="FILM BARAT",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOpUKyu.jpg" group-title="FILM INDONESIA", Perjanjian Dengan Iblis (2019)
+https://hls.kotaksilver.casa/572088/720_968/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMZOHcH.png" group-title="FILM INDONESIA", Keluarga Cemara (2019)
+https://hls.kotaksilver.casa/566100/720_656/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCLud2M.png" group-title="FILM INDONESIA", Valentine (2019)
+https://hls.kotaksilver.casa/586553/480_917/playlist.m3u8?r=480p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yza4m4s.jpg" group-title="FILM INDONESIA", Pocong The Origin (2019)
+https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYPQEhq.jpg" group-title="FILM INDONESIA", Sunyi (2019)
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZo6VU4.jpg" group-title="FILM INDONESIA", Mati Anak (2019)
+https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFYy8So.jpg" group-title="FILM INDONESIA", Yowis Ben 2 (2019)
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5Nh3Qn.jpg" group-title="FILM INDONESIA", Dilan 1991 (2019)
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTFCEee.jpg" group-title="FILM INDONESIA", Terlalu Tampan (2019)
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmpiqyf.jpg" group-title="FILM INDONESIA", PSP: Gaya Mahasiswa (2019)
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMXxAPm.jpg" group-title="FILM INDONESIA", Orang Kaya Baru (2019)
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="FILM INDONESIA",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="FILM INDONESIA",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="FILM INDONESIA",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="FILM INDONESIA",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa" group-title="FILM INDONESIA",Suzanna: Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY" group-title="FILM INDONESIA",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc" group-title="FILM INDONESIA",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:0 tvg-logo="https://citypost.id/foto_berita/5c63e16d67c26181sunyi.jpg" group-title="FILM INDONESIA",Sunyi
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://mmc.tirto.id/image/2019/05/03/poster-film-pocong-the-origin--instagram.jpg" group-title="FILM INDONESIA", Pocong The Origin
+https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM1OTMzZTEtYjQ0ZC00ZTZkLWIwYmQtOTU5Mzk1Mzg4NWI0XkEyXkFqcGdeQXVyNjMxNTEyMTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILM INDONESIA", Dilan 1991
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZjODRlNzYtNTRmZS00MjU3LWExYmEtNjYyMWZhMjQyMjY5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="FILM INDONESIA", Yowis Ben 2
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwYjY3ZjktODgyYy00ZWM5LWJhNzgtYzE4MmM4MjQ0ZjQwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="FILM INDONESIA", Terlalu Tampan
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMWM3ZjAtMzA2MC00ODg1LWIzMjQtYzBhYzIzN2JiZGVhXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILM INDONESIA",PSP: Gaya Mahasiswa
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://assets-a2.kompasiana.com/items/album/2019/02/14/okb-5c64e9ee43322f14f3499886.jpg?t=o&v=350" group-title="FILM INDONESIA",Orang Kaya Baru
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/11/MatiAnak.jpg" group-title="FILM INDONESIA", Mati Anak
+https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qex0D4z.png" group-title="FILM ASIA", One Child Nation (2019)
+https://www.googleapis.com/drive/v3/files/1SpUms8rbDzf7tQYsoS1C6OteMHqcB2Gd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5RnJQqe.png" group-title="FILM ASIA", The White Storm 2: Drug Lords (2019)
+https://www.googleapis.com/drive/v3/files/19TUDSxYfotXTZEShftG_Hwqd2i9S4dyy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MpmDUT0.png" group-title="FILM ASIA", The Knight of Shadows: Between Yin and Yang (2019)
+https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBeuRdN.jpg" group-title="FILM ASIA", My Punch-Drunk Boxer (2019)
+https://www.googleapis.com/drive/v3/files/1rSdZdYDJ4PHJSRRcagJ8PyLQfWF1zSHq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zDimng.png" group-title="FILM ASIA", The Invincible Dragon (2019)
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMc427e.png" group-title="FILM ASIA", The Furies (2019)
+https://www.googleapis.com/drive/v3/files/1bi3DeLkp1bR4yT4N6QaThk4eI5Mzkt6a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtiHviZ.png" group-title="FILM ASIA", Reborn (2018)
+https://www.googleapis.com/drive/v3/files/1kg5VWGx4nyVx23vl6ddVIm0BF0pdhXPo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7M2BIk5.png" group-title="FILM ASIA", The Last Women Standing (2015)
+https://www.googleapis.com/drive/v3/files/1KJsAfRYpVeg_ZNxV32FnNS-bSbiPMjqf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fc7ZCqi.png" group-title="FILM ASIA", My Mighty Princess (2008)
+https://www.googleapis.com/drive/v3/files/1d3AV8lA8TCPh3w8MP-GXmJmHFk9QoSFG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 
