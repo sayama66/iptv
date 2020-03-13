@@ -466,10 +466,33 @@ http://203.189.147.211:1935/live/myStream_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ASIA",13 SIAM THAI
 http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="RELIGI",MUSLIM TV
+#EXTINF:0 tvg-id="ext" group-title="MUSLIM TV",MUSLIM TV
 https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGI",TV MUHAMMADIYAH
+#EXTINF:0 tvg-id="ext" group-title="MUSLIM TV",TV MUHAMMADIYAH
 https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_2499968=9-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DCw1s4.png" group-title="MUSLIM TV", AL SAUDI QUR'AN
+http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9CSQB2.png" group-title="MUSLIM TV", AL SAUDI SUNNAH
+http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8aE4G3.png" group-title="MUSLIM TV", RODJA TV
+http://45.126.83.51:80/qwr9ew/s/s14/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RmHjWSe.png" group-title="MUSLIM TV", NABAWI TV
+http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTdjaCI.png" group-title="MUSLIM TV", INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="MUSLIM TV", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="MUSLIM TV",PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
+#EXTINF:-1 group-title="MUSLIM TV",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1 group-title="MUSLIM TV",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:-1 group-title="MUSLIM TV",ASHIILTV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1 group-title="MUSLIM TV",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
 
 #EXTINF:-1  group-title="INFO CHANNEL",Crime & Investigation
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/95
