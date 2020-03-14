@@ -864,13 +864,13 @@ http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Foxsports.br" group-title="SPORTS",Fox Sports Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,True Sport 1
-https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",True Sport 2
-https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",True Sport 3
-https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",True Sport 4
-https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,SkyNet Sport HD
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,SkyNet Sport 1
