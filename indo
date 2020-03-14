@@ -852,15 +852,15 @@ http://62.203.143.51:9981/play/SPORTV2
 http://62.203.143.51:9981/play/SPORT2HD
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
-https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
-https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
-https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
-https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
+http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
-https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
+http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Foxsports.br" group-title="SPORTS",Fox Sports Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,True Sport 1
@@ -872,33 +872,33 @@ https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",True Sport 4
 https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,SkyNet Sport HD
-https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS" ,SkyNet Sport 1
-https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png" group-title="SPORTS",SKYNET SPORT 1 back
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 2
-https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png" group-title="SPORTS",SKYNET SPORT 2 back
 http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 3
-https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png" group-title="SPORTS",SKYNET SPORT 3 back
 http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS", SkyNet Sport 4
-https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/94/77/1894773124c59b327ad34a7a795b2a18.png" group-title="SPORTS",SKYNET SPORT 4
 
 back
 
 http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 5
-https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORTS",SKYNET SPORT 5
 back
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="SPORTS",SkyNet Sport 6
-https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8 
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS",SKYNET SPORT 6 back
 
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
