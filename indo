@@ -107,10 +107,10 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="malaysia",TV1
-https://dl.dropbox.com/s/wc1m0tt4hb7ztgq/TV1new.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
  
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="malaysia",TV2
-https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtmokeymobile.secureswiftcontent.com//Origin02/ngrp:RTM2//chunklist_b1064000.m3u8
  
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png" group-title="malaysia",TV3 off
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
@@ -276,6 +276,50 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.jpg" group-title="INDIHOME", Celestial Classic Movie
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/animalpl.png" group-title="MOVIE",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=FE754EEE11C474F6C90452CF989C02463F35BF77&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="MOVIE",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="MOVIE",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=32C1B76647871825FB1E27479155A683F3B33666&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bbcworld.png" group-title="MOVIE",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bloomberg.png" group-title="MOVIE",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/extreme.png" group-title="MOVIE",Blue Ant Extreme
+#http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cartoonnet.png" group-title="MOVIE",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax.png" group-title="MOVIE",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnbc.png" group-title="MOVIE",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnninter.png" group-title="MOVIE",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=873D54D5C7D80531C55C5957338BB36842E10E95&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/discch.png" group-title="MOVIE",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/disneych.png" group-title="MOVIE",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fox.png" group-title="MOVIE",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fofamo.png" group-title="MOVIE",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxmo.png" group-title="MOVIE",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbofamily.png" group-title="MOVIE",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbo.png" group-title="MOVIE",HBO HD
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbohits.png" group-title="MOVIE",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbosign.png" group-title="MOVIE",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/h1.png" group-title="MOVIE",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="MOVIE",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:516
 
 #EXTINF:0 tvg-id="ext" gr#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
@@ -644,62 +688,6 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 #EXTINF:0 tvg-id="ChannelV.in" group-title="MUSIC",CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
 
-#EXTINF:0 tvg-id="AXN.bg" group-title="MOVIES",AXN
-http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1  group-title="MOVIES",My Cinema Channel
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="MOVIES",CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="MOVIES",HBO
-https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
-#EXTINF:0 tvg-id="HBO2.cz" group-title="MOVIES",HBO 2
-http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?wmsAuthSign=
-#EXTINF:0 tvg-id="HBOComedy.cz" group-title="MOVIES",HBO 3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="MOVIES",FX
-https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="MOVIES",WARNER TV
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="MOVIES",CRIME INVESTIGATION
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox Action Movies
-https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox Movies Premium
-https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxCrime.pt.png" group-title="MOVIES",FOX Crime
-https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="MOVIES",Fox Family Movies
-https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="MOVIES",Fox Life
-https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="MOVIES",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=BC3F62962957A545FF2FCFFCDD109A630F050061&profile=pass
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="MOVIES",HBO Family
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
-#EXTINF:0 tvg-id="HBOHits.in" group-title="MOVIES",HBO Hits`
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="MOVIES",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=25D6186F63BD65A300657BDF78B9532138071EF9&profile=pass
-#EXTINF:0 tvg-id="TVN.pl" group-title="MOVIES",TVN
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-#EXTINF:0 tvg-id="Kix.uk" group-title="MOVIES",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="MOVIES",HITS
-http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",HITS MOVIES
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",CINEMA WORLD
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/49
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",thrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="MOVIES",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIES",ZEE BIOSKOP
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
 #EXTINF:-1 group-title="Movies",FX
 http://live.fadev.club/live/FX/playlist.m3u8
