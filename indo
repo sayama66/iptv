@@ -29,7 +29,7 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png"group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="INDONESIA",TV ONE
-http://210.210.155.35/session/ed070d02-a425-11ea-b94c-a41480b6ce7c/qwr9ew/s/s105/01.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:0 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="INDONESIA",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",TRANS TV
@@ -732,11 +732,18 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movies",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://geeksforpc.com/wp-content/uploads/2019/12/Screenshot_7.png" group-title="SPORTS",USEESPORT 1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",MNC SPORT 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",MNC SPORT 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://geeksforpc.com/wp-content/uploads/2019/12/Screenshot_7.png" group-title="SPORTS",USEESPORT 2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+
+#EXTINF:-1 tvg-logo="https://geeksforpc.com/wp-content/uploads/2019/12/Screenshot_7.png" group-title="SPORTS",CHAMPION TV 1
+https://vcdnjt.useetv.com:443/joss/15/champion1/chunklist_w888798869_b684100_sleng_177560.m3u8?enc=SgRpcH6S97eh9aWOJ-vngA&exp=1587471358
+
+#EXTINF:-1 tvg-logo="https://geeksforpc.com/wp-content/uploads/2019/12/Screenshot_7.png" group-title="SPORTS",CHAMPION TV 2
+https://vcdnjt.useetv.com:443/joss/15/champion2/chunklist_w698562627_b684100_sleng_177560.m3u8?enc=ilVuzptnrtiN-CRXUtRLfw&exp=1587471401
+
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",100 AUTOMOTO TV
@@ -754,11 +761,12 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:0 tvg-id="FightSports.svn" group-title="SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS",FOX Sport 1
-http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&key=62019
-#EXTINF:0 tvg-id="FOXsport2.nl" group-title="SPORTS",FOX Sport 2
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA=
+https://cdnbpp1.useetv.com/joss/15/foxsport1/chunklist_w1640647525_b894100_sleng_307462.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS",FOX Sports 2
+https://vcdnjt.useetv.com:443/joss/15/foxsport2/chunklist_w790481523_b684100_sleng_177560.m3u8?enc=5gkf76mgRhgfATyaSDHCoQ&exp=1585292570&encp=sKlDtjs9_zyjTnlRJ_y2xg&expp=1585301270
 #EXTINF:0 tvg-id="FoxSports3.ar" group-title="SPORTS",FOX Sport 3
-http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&key=48133
+https://vcdnjt.useetv.com:443/joss/15/foxsport3/chunklist_w1060961009_b684100_sleng_177560.m3u8?enc=2hIiDmbLnO9ik34eetLTmA&exp=1585292600&encp=iJ65wN8Fe6GtQazh5mtC3A&expp=1585301300
+
 #EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORTS",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",RED BULL TV
@@ -770,11 +778,11 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:0 tvg-id="SonySix.in" group-title="SPORTS",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
 #EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
 #EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+http://202.163.117.6:9981/stream/channelid/1156450698?ticket=27F5869D77DA611229F0C1CFAF765431A18CAD91&profile=pass
 #EXTINF:0 tvg-id="SonyESPN.in" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS",Sky Sports Main Event
@@ -788,10 +796,10 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w524430809_b894100_sleng.m3u8
+https://vcdnjt.useetv.com:443/joss/15/bein1/chunklist_w1325761140_b684100_sleng_177560.m3u8?enc=vcP2SW9irdVaDSRPMvSnzA&exp=1587471217
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w238172090_b894100_sleng.m3u8?enc=S3j-cq1usASqLW0CrYIEAw&exp=1584801794
+https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w878851015_b684100_sleng_177560.m3u8?enc=G8yv_dvfJqqhAeaNzTgXnw&exp=1587471247
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
 http://iptvbest.org:80/live/joyce3/273769/167.m3u8
@@ -856,11 +864,11 @@ http://62.203.143.51:9981/play/SPORTV2
 http://62.203.143.51:9981/play/SPORT2HD
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
