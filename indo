@@ -30,7 +30,7 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="INDONESIA",TV ONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:0 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="INDONESIA",TV ONE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="INDONESIA",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -780,7 +780,7 @@ https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",Sony Ten 1
 http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
 #EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",Sony Ten 2
-http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
+http://202.163.117.6:9981/stream/channelid/520610693?ticket=68E2D7EFB61BEBC13C8B6EEE6A3542F803AA98F8&profile=pass
 #EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony Ten 3
 http://202.163.117.6:9981/stream/channelid/1156450698?ticket=27F5869D77DA611229F0C1CFAF765431A18CAD91&profile=pass
 #EXTINF:0 tvg-id="SonyESPN.in" group-title="SPORTS",Sony ESPN
