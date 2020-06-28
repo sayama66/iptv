@@ -8,7 +8,7 @@ http://iptv.burhansyam.com/mnctv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV++
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV
 https://delivery.macan.live/stream/id_antv/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:0 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg"group-title="INDONESIA",SCTV
@@ -112,8 +112,8 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="malaysia",TV2
 https://rtmokeymobile.secureswiftcontent.com//Origin02/ngrp:RTM2//chunklist_b1064000.m3u8
  
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png" group-title="malaysia",TV3 off
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png" group-title="malaysia",TV3
+https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
  
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="malaysia",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
