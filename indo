@@ -23,7 +23,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1593526392~acl=/hls-p/ingest_875_*
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GTV
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV SD
-https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:-1 group-title="INDONESIA",GTV ONLINE
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png"group-title="INDONESIA",TRANS 7
