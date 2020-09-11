@@ -323,95 +323,6 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB220
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
 #EXTINF:-1 tvg-logo="http://193.70.73.242:516
 
-#EXTINF:0 tvg-id="ext" gr#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
-http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1??.png" group-title="CHINA",CCTV-1
-http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_??.svg/1200px-CCTV-2_??.svg.png" group-title="CHINA",CCTV-2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="CHINA",CCTV-3 (Opt-1)
-http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="CHINA",CCTV-3 (Opt-2)
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="CHINA",CCTV-4 (Opt-1)
-http://ivi.bupt.edu.cn/hls/cctv4.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="CHINA",CCTV-4 (Opt-2)
-http://45.126.83.51/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="CHINA",CCTV-5
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6??.png" group-title="CHINA",CCTV-6
-http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7????.png" group-title="CHINA",CCTV-7
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8???.png" group-title="CHINA",CCTV-8
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9??.png" group-title="CHINA",CCTV-9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10??.png" group-title="CHINA",CCTV-10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="CHINA",CCTV-11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12????.png" group-title="CHINA",CCTV-12
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-1)
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14??.png" group-title="CHINA",CCTV-14
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15??.png" group-title="CHINA",CCTV-15
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fWVXqKc.png" group-title="CHINA",China Business Network (Opt-3)
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 1
-http://stream.chinactv.com/ctv1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 2
-http://stream.chinactv.com/ctv2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 3
-http://stream.chinactv.com/ctv3/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 4
-http://stream.chinactv.com/ctv4/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 5
-http://stream.chinactv.com/ctv5/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aaviUTw.png" group-title="CHINA",Dragon Television
-http://45.126.83.51/qwr9ew/s/s29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-1)
-http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_500k_flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-2)
-http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_800k_flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="CHINA",Max Financial Media
-http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="CHINA",Nongan News
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eAvf1cK.png" group-title="CHINA",Qinghai TV (New!)
-http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XeeAdF4.png" group-title="CHINA",Sichuan Kangba (New!)
-http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aM6u55u.png" group-title="CHINA",Tonghua TV 1 Jilin
-http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="CHINA",Toon Max TV (Opt-1)
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="CHINA",Toon Max TV (Opt-2)
-http://45.126.83.51/qwr9ew/s/s50/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-1)
-http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1 Shanghai (Opt-2)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 2 Shanghai
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 3 Shanghai
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 4 Shanghai
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xagdGLo.png" group-title="CHINA",Yanbian TV Jilin
-http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/co6VgvJ.png" group-title="CHINA",Yanbian TV 1 Jilin
-http://live.ybtvyun.com/video/s10016-ybtv1-sd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4jLTK.png" group-title="CHINA",Yanbian TV 2 Jilin
-http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-1)
-http://stream.zhystv.com/yset/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-2)
-http://stream.zhystv.com/ysyt/sd/live.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="ASIA",CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="LifeTV.es" group-title="ASIA",Life TV
@@ -796,62 +707,29 @@ https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="SPORTS",Sky Sports Football
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="22/7 EPL",BEIN SPORT
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/2322.ts
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/8471.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/8472.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/8539.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/8690.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/8689.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/9984.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/10928.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/14724.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/14723.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://best-servers.xyz:8000/live/aziz2020/2020aziz/14722.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-http://iptvbest.org:80/live/joyce3/273769/183.m3u8
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://iptvbest.org:80/live/joyce3/273769/185.m3u8
 
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="22/7 EPL",BEIN SPORT 1
-http://iptvbest.org:80/live/joyce3/273769/164.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/2322.ts
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="22/7 EPL",BEIN SPORT 2
-http://iptvbest.org:80/live/joyce3/273769/166.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21549.ts
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="22/7 EPL",BEIN SPORT 3
-http://iptvbest.org:80/live/joyce3/273769/168.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21550.ts
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="22/7 EPL",BEIN SPORT 4
-http://iptvbest.org:80/live/joyce3/273769/170.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21551.ts
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title="22/7 EPL",BEIN SPORT 5
-http://iptvbest.org:80/live/joyce3/273769/172.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21552.ts
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="22/7 EPL",BEIN SPORT 6
-http://iptvbest.org:80/live/joyce3/273769/174.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21553.ts
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="22/7 EPL",BEIN SPORT 7
-http://iptvbest.org:80/live/joyce3/273769/176.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/2308.ts
 #EXTINF:0 tvg-id="bein8hd.jsc" group-title="22/7 EPL",BEIN SPORT 8
-http://iptvbest.org:80/live/joyce3/273769/178.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/2314.ts
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="22/7 EPL",BEIN SPORT 9
-http://iptvbest.org:80/live/joyce3/273769/180.m3u8
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/2315.ts
 
 
 #EXTINF:0 tvg-id="ext" group-title="22/7 EPL",BT SPORT 1 (Extra Server)
